@@ -3,3 +3,5 @@ no take it
 no conflict required
 merge the code to dev
 Lets change the file
+check all changes through git show
+let merge the changes to dev using pull request
