@@ -1,0 +1,10 @@
+1234
+no take it
+no conflict required
+merge the code to dev
+Lets change the file
+check all changes through git show
+let merge the changes to dev using pull request
+not a change
+Lets pull through main
+Making changes in qa to reflect in dev
